@@ -6,6 +6,9 @@
 This is a simple webpage with links to many of the projects I have worked on in the last week.  If you haven't seen it already, here is the link [click here](https://john-dig.github.io/portfolio/).
 <br><br>
 
+### Setup Instructions
+  Just click the link above, thats it!
+
 ### Technology Used
   For this web page I used a multiple methods to achieve the same result.  Here are some technologies used:
 
@@ -28,11 +31,11 @@ This is a simple webpage with links to many of the projects I have worked on in 
   ### Known Issues
   1. There are **many!** All my software could use more work, I need more time!
   2. There are a few issues I'm having with images and text displaying properly.
-  3. I'm sure you can find more, if so, please send an email to (rohnfiggins@gmail.com), with the subject line: _help for your portfolio_. 
+  3. I'm sure you can find more, if so, please send an email to (dontSend@nowhere.com), with the subject line: _help for your portfolio_. 
 
 <br><br>
 
   ###### License
 
-  >Open source, free to use for any and all purposes.
+  >completed: 01/14/2023   Open source, free to everyone.
 
