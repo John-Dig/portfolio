@@ -3,7 +3,7 @@
 <br>
 
 ### Description
-This is a simple webpage with links to many of the projects I have worked on in the last week.   [click here](https://john-dig.github.io/portfolio/).
+This is a simple webpage with links to many of the projects I have worked on in the last week.
 <br><br>
 
 ### Setup Instructions
