@@ -1,7 +1,9 @@
 h1 {
   text-align: center;
   text-decoration: underline;
-  color:rgb(80, 133, 6)
+  color:rgb(80, 133, 6);
+  font-variant: small-caps;
+  font-size:4em;
 }
 h2 {
   text-align: center;
@@ -25,7 +27,11 @@ img{
   width:600px;
   margin:20px;
   border-style: ridge;
-  border-width: .5em;
+  border-width: .5em; 
+}
+
+span{
+  font-style:italic;
 }
 .sidebar{
   float:right;
@@ -46,6 +52,9 @@ img{
   border-color: grey;
   border-style:solid;
   margin:20px; 
+}
+#img2{
+  align-items: center;
 }
 #bg1 {
   background-color:honeydew;
