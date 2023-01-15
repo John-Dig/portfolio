@@ -3,11 +3,12 @@
 <br>
 
 ### Description
-This is a simple webpage with links to many of the projects I have worked on in the last week.  If you haven't seen it already, here is the link [click here](https://john-dig.github.io/portfolio/).
+This is a simple webpage with links to many of the projects I have worked on in the last week.   [click here](https://john-dig.github.io/portfolio/).
 <br><br>
 
 ### Setup Instructions
-  Just click the link above, thats it!
+  
+  Just click the link: [click here](https://john-dig.github.io/portfolio/).  Another way would be to clone the main branch, then open the index.html file.  Both the link (points to the gh-pages branch), and the main branch are identical as of 1/14/2023.
 
 ### Technology Used
   For this web page I used a multiple methods to achieve the same result.  Here are some technologies used:
