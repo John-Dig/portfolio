@@ -24,7 +24,7 @@ p {
   font-size:25px;
 }
 img{
-  width:600px;
+  width:400px;
   margin:20px;
   border-style: ridge;
   border-width: .5em; 
@@ -38,8 +38,8 @@ span{
   width:"800px";
 }
 .skinny{
-  width:20%;
   float:right;
+  width: 400px;
   padding:20px;
   border-color: black;
   border-style:solid;
@@ -62,4 +62,9 @@ span{
 }
 #bg2 {
   background-color:lightslategray;
+  width: 300px;
+}
+#bg3 {
+  background-color:lightslategray;
+  width: 300px;
 }
