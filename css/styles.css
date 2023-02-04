@@ -68,3 +68,8 @@ span{
   background-color:lightslategray;
   width: 300px;
 }
+#bg4 {
+  background-color:lightslategray;
+  width: 300px;
+  float:left;
+}
